@@ -1,0 +1,17 @@
+/* CSS Document */  
+.guide-title {
+	text-align: center;
+	font-size: 120%;
+}
+.guide-detail-title {
+	font-weight:bold;
+}
+.guide-attention {
+	margin-top: 10px;
+	text-align: left;
+	font-size: 80%;
+	color: brown;
+}
+.stand {
+	margin-top: 10px;
+}

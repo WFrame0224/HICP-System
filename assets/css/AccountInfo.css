@@ -1,0 +1,17 @@
+/* CSS Document */
+/**
+ * AccountInfo.css
+ */
+
+ul {
+  margin-top: 0;
+}
+.admin-content {
+  width: auto;
+  overflow: hidden;
+  height: 100%;
+  background: #fff;
+}
+
+
+
